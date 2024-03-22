@@ -29,4 +29,4 @@ else:
 # bs0bj = BeautifulSoup(html.read())
 # nameList =bs0bj.findAll(text='the prince') -- Найти колличество конкретного слова внутри тега
 # print(len(nameList))
-# Строка для конфликта
+# Здесь добавил строку для конфликта(удалённый репозиторий)
